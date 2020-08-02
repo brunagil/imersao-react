@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"PolyFlix reune o melhor conteúdo da internet para aqueles que desejam se comunicar em diversas línguas fluentemente. Mas, como seria sua vida como um poliglota? Conheça a história do Gabriel!"}
       />
 
       <Carousel

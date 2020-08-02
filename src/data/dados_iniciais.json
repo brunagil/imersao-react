@@ -1,183 +1,179 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Inglês",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Para quem quer aprender ou aprimorar o inglês",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O lugar perfeito para quer se tornar um poliglota",
+          "url": "https://www.youtube.com/watch?v=MMmOLN5zBLY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "50 frases essencias em inglês",
+          "url": "https://www.youtube.com/watch?v=PJT6vROO3eM"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Aprenda 10 expressões curiosas em inglês",
+          "url": "https://www.youtube.com/watch?v=VpQLxG8GgOY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Dica de como reduzir o seu sotaque em 20%",
+          "url": "https://www.youtube.com/watch?v=D-5HoVku1nc"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "6 erros de inglês que TODO INICIANTE (ou não) comete",
+          "url": "https://www.youtube.com/watch?v=RgDrTCoiyuM"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Como pronunciar o TH em inglês (passo a passo)!",
+          "url": "https://www.youtube.com/watch?v=JBpns9JaW8o"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Francês",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Para quem quer aprender ou aprimorar o francês",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Francês básico: Quais os primeiros passos para a fluência?",
+          "url": "https://www.youtube.com/watch?v=lo__mwPnyJM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Aula de francês básico",
+          "url": "https://www.youtube.com/watch?v=LWNvubHRIkQ&t=8s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Vocabulário, cultura e política da França",
+          "url": "https://www.youtube.com/watch?v=SeeSahEhI_E"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "8 podcasts em francês para iniciantes",
+          "url": "https://www.youtube.com/watch?v=DXiuZI6nI8E"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Como parecer FLUENTE em francês! 9 truques",
+          "url": "https://www.youtube.com/watch?v=nbztc1ddFeo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Espanhol",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Para quem quer aprender ou aprimorar o espanhol",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Dias da Semana em Espanhol e Suas Origens",
+          "url": "https://www.youtube.com/watch?v=ZBIOUDpfV64"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "¿Qué hora es? - Aprenda as horas em espanhol",
+          "url": "https://www.youtube.com/watch?v=-QJ9xYyl2UM"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "VER, MIRAR e ASISTIR + expressões",
+          "url": "https://www.youtube.com/watch?v=BOe3LFn3ewc"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "50 palavras para você arrasar no espanhol",
+          "url": "https://www.youtube.com/watch?v=ue_8Sk-Rlfk"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Coreano",
       "cor": "orange",
+      "link_extra": {
+        "text": "Para quem quer aprender ou aprimorar o coreano",
+        "url": ""
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Coreano para iniciantes - Aula 1",
+          "url": "https://www.youtube.com/watch?v=aT51gzn8Sys&t=3s"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O alfabeto coreano",
+          "url": "https://www.youtube.com/watch?v=S5kojQwAUx8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Palavras iguais com sentidos diferentes",
+          "url": "https://www.youtube.com/watch?v=WBHuVc0C-L4"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Lendo em coreano",
+          "url": "https://www.youtube.com/watch?v=zHZwU0X6520"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Japonês",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Para quem quer aprender ou aprimorar o japonês",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Aula de alfabeto japonês - Hiragana",
+          "url": "https://www.youtube.com/watch?v=C3Cn3G4ia00"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Explicando os cumprimentos em japonês",
+          "url": "https://www.youtube.com/watch?v=XgQvt6PzkPk"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Primeiras frases em japonês",
+          "url": "https://www.youtube.com/watch?v=DcxpDtkHqqE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Verbo quebrar, demolir",
+          "url": "https://www.youtube.com/watch?v=dyXbMcYDeiY"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Mas como vou saber o significado das palavras?",
+          "url": "https://www.youtube.com/watch?v=PfrVu9T-2MM"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Aprendendo a aprender",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Para quem quer conhecer métodos e plano de estudos para aprender uma língua estrangeira",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Os segredos para aprender uma nova língua",
+          "url": "https://www.youtube.com/watch?v=o_XVt5rdpFY"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Como perder a vergonha de falar?",
+          "url": "https://www.youtube.com/watch?v=11buhq7svxg"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "5 técnicas para falar qualquer língua",
+          "url": "https://www.youtube.com/watch?v=-WLHr1_EVtQ"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "INPUT: Como aprender uma nova língua",
+          "url": "https://www.youtube.com/watch?v=J_EQDtpYSNM&t=299s"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Como ler e ouvir no idioma que estamos aprendendo",
+          "url": "https://youtu.be/FuwgJfOat8Q"
         }
       ]
     }
