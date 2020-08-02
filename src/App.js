@@ -5,6 +5,8 @@ import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
 import Footer from './components/Footer';
 
+const videoDescriptionText = "Aqui você encontra o melhor conteúdo aprender a se comunicar em diversas línguas fluentemente. Você sabe quais são os benefícios de ser bilingue? Descubra e se inspire na nossa seleção!"
+
 function App() {
   return (
     <div style={{ background: "#141414" }}>
@@ -13,7 +15,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"PolyFlix reune o melhor conteúdo da internet para aqueles que desejam se comunicar em diversas línguas fluentemente. Mas, como seria sua vida como um poliglota? Conheça a história do Gabriel!"}
+        videoDescription={videoDescriptionText}
       />
 
       <Carousel

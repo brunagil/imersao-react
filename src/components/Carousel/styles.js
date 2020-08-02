@@ -43,7 +43,7 @@ export const VideoCardList = styled.ul`
   flex-direction: row;
   
   li {
-    margin-right: 16px;
+    margin-right: 10px;
   }
 `;
 

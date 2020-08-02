@@ -19,6 +19,10 @@ ContentAreaContainer.Item = styled.div`
   width: 50%;
   display: inline-block;
   margin-bottom: 50px;
+  margin-right: 10px;
+  font-size: 18px;
+  line-height: 30px;
+
   @media (max-width: 800px) {
     width: 100%;
   }
@@ -52,9 +56,10 @@ ContentAreaContainer.Description = styled.p`
 `;
 
 ContentAreaContainer.Title = styled.h2`
+  font-family: 'Tajawal';
   font-style: normal;
   font-weight: 300;
-  font-size: 40px;
+  font-size: 60px;
   line-height: 1;
   margin-top: 0;
   margin-bottom: 32px;
